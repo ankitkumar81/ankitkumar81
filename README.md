@@ -3,7 +3,7 @@
 <br>
 
 <br>
-- 🌱 I’m interested in Android, DevOps and Machine learning
+- 🌱 I’m interested in Android App Development
 
 - 📫 How to reach me **ankitgeu81@gmail.com**
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
